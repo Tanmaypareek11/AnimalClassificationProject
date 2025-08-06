@@ -1,8 +1,9 @@
 import streamlit as st
 import tensorflow as tf
-import numpy as np
 import cv2
+import numpy as np
 from PIL import Image
+
 
 # Load model
 model = tf.keras.models.load_model("animal_classifier.h5")
