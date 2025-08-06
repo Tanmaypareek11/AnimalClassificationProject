@@ -1,5 +1,6 @@
 gradio
 streamlit
+opencv-python
 tensorflow
 pillow
 numpy
