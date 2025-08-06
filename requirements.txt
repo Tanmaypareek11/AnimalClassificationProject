@@ -1,6 +1,6 @@
 gradio
 streamlit
-opencv-python
+opencv-python==4.5.5.64
 tensorflow
 pillow
 numpy
